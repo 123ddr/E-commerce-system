@@ -42,4 +42,4 @@ This project is a part of an e-commerce system built using Spring Boot and MySQL
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/e-commerce-system.git
+   git clone https://github.com/123ddr/E-commerce-system.git
