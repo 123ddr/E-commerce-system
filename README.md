@@ -27,7 +27,7 @@ This project is a part of an e-commerce system built using Spring Boot and MySQL
 
 - **Backend**: Spring Boot (Java)
 - **Database**: MySQL
-- **API Documentation**: Postman / Swagger (optional)
+- **API Documentation**: Postman 
 - **Build Tool**: Maven / Gradle
 
 ## Setup
